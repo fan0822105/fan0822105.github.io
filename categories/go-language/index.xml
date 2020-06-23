@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go Language on fan的部落格</title>
+    <link>https://fan0822105.github.io/categories/go-language/</link>
+    <description>Recent content in Go Language on fan的部落格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 21 Jun 2020 10:07:47 +0800</lastBuildDate>
+    
+	<atom:link href="https://fan0822105.github.io/categories/go-language/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markdown語法的應用</title>
+      <link>https://fan0822105.github.io/blog/markdown/</link>
+      <pubDate>Sun, 21 Jun 2020 10:07:47 +0800</pubDate>
+      
+      <guid>https://fan0822105.github.io/blog/markdown/</guid>
+      <description>Markdown語法  內文 一~六級標題 粗體 斜線 程式碼  例如:  print(&amp;#34;hello world&amp;#34;)   參考維基百科介紹</description>
+    </item>
+    
+  </channel>
+</rss>
