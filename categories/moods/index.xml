@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>moods on fan的部落格</title>
+    <link>https://fan0822105.github.io/categories/moods/</link>
+    <description>Recent content in moods on fan的部落格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 21 Jun 2020 11:21:47 +0800</lastBuildDate>
+    
+	<atom:link href="https://fan0822105.github.io/categories/moods/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>貓咪與奴才的互動</title>
+      <link>https://fan0822105.github.io/blog/moods/</link>
+      <pubDate>Sun, 21 Jun 2020 11:21:47 +0800</pubDate>
+      
+      <guid>https://fan0822105.github.io/blog/moods/</guid>
+      <description>貓咪與奴才的互動 我使用hugo shortcodes來分享社群軟體上有趣的影片
+首先是youtube的影片:   第二個是instagramg上的貼文:    View this post on Instagram         A post shared by 黃阿瑪的後宮生活 (@fumeancat)</description>
+    </item>
+    
+  </channel>
+</rss>
